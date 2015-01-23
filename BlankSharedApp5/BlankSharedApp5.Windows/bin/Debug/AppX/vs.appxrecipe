@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN-KO32BEBEPRB</Machine>
+    <WindowsUser>Joshua</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>7b77ef38-0e6d-4f02-9eec-62e4494aa9c1</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\joshua\documents\visual studio 2013\Projects\BlankSharedApp5\BlankSharedApp5\BlankSharedApp5.Windows\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>57437CAAD3E66CDA3BBEA83CF3ACFE9A3B51139E3E353AC071CE48BDC467BCF9</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>7b77ef38-0e6d-4f02-9eec-62e4494aa9c1_1.0.0.0_neutral__5yqrpw1pjcztt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>7b77ef38-0e6d-4f02-9eec-62e4494aa9c1_5yqrpw1pjcztt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>7b77ef38-0e6d-4f02-9eec-62e4494aa9c1</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Joshua</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\joshua\documents\visual studio 2013\Projects\BlankSharedApp5\BlankSharedApp5\BlankSharedApp5.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-20T23:39:19.839</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\joshua\documents\visual studio 2013\Projects\BlankSharedApp5\BlankSharedApp5\BlankSharedApp5.Windows\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-03T01:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\joshua\documents\visual studio 2013\Projects\BlankSharedApp5\BlankSharedApp5\BlankSharedApp5.Windows\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-03T01:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\joshua\documents\visual studio 2013\Projects\BlankSharedApp5\BlankSharedApp5\BlankSharedApp5.Windows\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-03T01:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\joshua\documents\visual studio 2013\Projects\BlankSharedApp5\BlankSharedApp5\BlankSharedApp5.Windows\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-03T01:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\joshua\documents\visual studio 2013\Projects\BlankSharedApp5\BlankSharedApp5\BlankSharedApp5.Windows\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2014-06-03T01:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\joshua\documents\visual studio 2013\Projects\BlankSharedApp5\BlankSharedApp5\BlankSharedApp5.Shared\html\default.html">
+      <PackagePath>html\default.html</PackagePath>
+      <Modified>2015-01-20T23:51:23.700</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\joshua\documents\visual studio 2013\Projects\BlankSharedApp5\BlankSharedApp5\BlankSharedApp5.Shared\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2015-01-20T23:58:18.939</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\joshua\documents\visual studio 2013\Projects\BlankSharedApp5\BlankSharedApp5\BlankSharedApp5.Shared\js\jquery-1.11.2.js">
+      <PackagePath>js\jquery-1.11.2.js</PackagePath>
+      <Modified>2015-01-20T23:30:00.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\joshua\documents\visual studio 2013\Projects\BlankSharedApp5\BlankSharedApp5\BlankSharedApp5.Windows\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-01-20T23:39:19.691</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

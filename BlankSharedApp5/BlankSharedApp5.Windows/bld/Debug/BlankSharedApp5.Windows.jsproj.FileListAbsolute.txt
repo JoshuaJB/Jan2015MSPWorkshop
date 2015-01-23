@@ -1,0 +1,15 @@
+c:\users\joshua\documents\visual studio 2013\Projects\BlankSharedApp5\BlankSharedApp5\BlankSharedApp5.Windows\bin\Debug\ReverseMap\resources.pri
+c:\users\joshua\documents\visual studio 2013\Projects\BlankSharedApp5\BlankSharedApp5\BlankSharedApp5.Windows\bin\Debug\AppxManifest.xml
+c:\users\joshua\documents\visual studio 2013\Projects\BlankSharedApp5\BlankSharedApp5\BlankSharedApp5.Windows\bin\Debug\BlankSharedApp5.Windows.build.appxrecipe
+c:\users\joshua\documents\visual studio 2013\Projects\BlankSharedApp5\BlankSharedApp5\BlankSharedApp5.Windows\bld\Debug\priconfig.xml
+c:\users\joshua\documents\visual studio 2013\Projects\BlankSharedApp5\BlankSharedApp5\BlankSharedApp5.Windows\bld\Debug\priconfig.xml.intermediate
+c:\users\joshua\documents\visual studio 2013\Projects\BlankSharedApp5\BlankSharedApp5\BlankSharedApp5.Windows\bld\Debug\layout.resfiles
+c:\users\joshua\documents\visual studio 2013\Projects\BlankSharedApp5\BlankSharedApp5\BlankSharedApp5.Windows\bld\Debug\layout.resfiles.intermediate
+c:\users\joshua\documents\visual studio 2013\Projects\BlankSharedApp5\BlankSharedApp5\BlankSharedApp5.Windows\bld\Debug\resources.resfiles
+c:\users\joshua\documents\visual studio 2013\Projects\BlankSharedApp5\BlankSharedApp5\BlankSharedApp5.Windows\bld\Debug\resources.resfiles.intermediate
+c:\users\joshua\documents\visual studio 2013\Projects\BlankSharedApp5\BlankSharedApp5\BlankSharedApp5.Windows\bld\Debug\pri.resfiles
+c:\users\joshua\documents\visual studio 2013\Projects\BlankSharedApp5\BlankSharedApp5\BlankSharedApp5.Windows\bld\Debug\pri.resfiles.intermediate
+c:\users\joshua\documents\visual studio 2013\Projects\BlankSharedApp5\BlankSharedApp5\BlankSharedApp5.Windows\bld\Debug\qualifiers.txt
+c:\users\joshua\documents\visual studio 2013\Projects\BlankSharedApp5\BlankSharedApp5\BlankSharedApp5.Windows\bld\Debug\qualifiers.txt.intermediate
+c:\users\joshua\documents\visual studio 2013\Projects\BlankSharedApp5\BlankSharedApp5\BlankSharedApp5.Windows\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\joshua\documents\visual studio 2013\Projects\BlankSharedApp5\BlankSharedApp5\BlankSharedApp5.Windows\bld\Debug\ProjectArchitectures.txt

@@ -1,0 +1,2 @@
+# Exclude Visual Studio Solution User Options files
+*.suo
